@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ngaboy123456-xqrn.aternos.me:54747",
+    "ip": "ngaboy123456-xqrn.aternos.me",
     "port": 54747,
     "version": "",
     "try-creative": false
